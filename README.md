@@ -1,5 +1,4 @@
 # Moodify:
-https://moodify.pages.dev/
 Crafting serenity with ambient sounds for focus, calm, and insomnia relief, featuring 18 primary sounds and essential user-friendly functionalities
 # Technology used in this project: 
 React, JavaScript ,HTML and CSS
